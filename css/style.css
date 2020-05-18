@@ -1,0 +1,110 @@
+body{
+    background-image: url(../images/petlgn1.jpg);
+ }
+.c1{
+    margin-left: 750px;
+    margin-top: 100px;
+    padding-top: 10px;
+text-align: center;
+background-color: #3333;s
+display: block;
+width: 380px;
+height: 220px;
+box-shadow: 5px 10px 10px #ABABAB;
+border-radius: 10px ;
+border: 2px   #804040 ;
+
+}
+.in1
+{
+    padding: 2px;
+    background-color: transparent;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-size: 15px;
+    padding-left: 5px;
+}
+.in2
+{
+    padding: 2px;
+    background-color: transparent;
+    margin-bottom: 10px;
+    margin-left: 13px;
+    border-radius: 10px;
+    color: whitesmoke;
+    font-size: 15px;
+    padding-left: 5px;
+}
+.btn{
+    background-color: greenyellow;   
+    margin-left: 200px; 
+    font-size: 15px;
+    border-radius: 5px;
+}
+.label1{
+
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 1px;
+    margin-left: -33px;
+}
+.label2{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding-left: 1px;
+    margin-left: -30px;
+}
+.frm{
+	
+    border-width: 100px;
+    border-color: black;
+}
+.error{
+    color: red;
+    padding:17px;
+}
+p{
+     color: red;
+    font-size: 18px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 2px;
+    padding-left: 5px;
+    margin: 2px;
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 1240px;
+    }
+li{
+    float:left;
+    }
+    
+li a{
+    display: block;
+    padding: 14px 16px;
+    text-decoration:none;
+    text-align: center;
+    color: white;
+    }
+li a:hover{
+    background-color: greenyellow;
+}
+ 
+ .tag{
+    font-size: 20px;
+    color: greenyellow;
+    margin-left: -200px;
+    margin-bottom: 20px;
+    position: relative;
+    font-family: cursive;
+ }
+ 
+
+

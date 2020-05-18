@@ -1,0 +1,118 @@
+   body{
+    margin-top: 10px;
+    background: url(../images/frame1.png) ; 
+   
+}
+
+.m5{
+    margin-left: 70px;
+    margin-top: 50px;
+    padding:5px;
+    font-size: 30px;
+    text-align: center;
+    background: url(../images/section.jpg)no-repeat center center fixed;
+    -webkit-background-size:cover;
+     -moz-background-size:cover;
+     -o-background-size:cover;    
+     background-size:cover; 
+  
+    display: block;
+    width: 1200px;
+    height: 400px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+    
+}
+
+.slogan{
+    font-size: 20px;
+    font-family: cursive;
+    color: red;
+}
+
+
+
+
+
+.anim{
+    width: 360px;
+     height: 35px;
+     margin-left: 35%;
+     background: url(../images/animdog.gif); 
+}
+
+.m6{
+    margin-left: 70px;
+    margin-top: 100px;
+    margin-bottom: 80px; 
+    padding:5px;
+    font-size: 30px;
+    text-align: center;
+    background: url(../images/dog2.jpg)no-repeat center center fixed;
+    -webkit-background-size:cover;
+     -moz-background-size:cover;
+     -o-background-size:cover;    
+     background-size:cover; 
+  
+    display: block;
+    width: 1200px;
+    height: 450px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+    
+}
+
+
+.tag2{
+    font-size: 35px;
+    font-family: cursive;
+    color: darkgoldenrod;
+}
+
+.tag3{
+    font-size: 35px;
+    font-family: cursive;
+    color: darkgoldenrod;
+}
+
+
+
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 1240px;
+    }
+li{
+    float:left;
+    }
+    
+li a{
+    display: block;
+    padding: 14px 16px;
+    text-decoration:none;
+    text-align: center;
+    color: white;
+    }
+li a:hover{
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

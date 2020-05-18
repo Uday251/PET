@@ -1,0 +1,72 @@
+ body{
+    background: url(../images/regpic1.jpg) no-repeat center center fixed;
+    -webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;    
+  background-size:cover;   
+}
+
+.m1{
+    margin-left: 620px;
+    margin-top: 50px;
+    padding:70px;
+    text-align: right;
+    background-color: #3333;
+    display: block;
+    width: 400px;
+    height: 260px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+}
+
+
+
+ .m2
+ {
+    padding: 1px;
+    background-color: transparent;
+    margin-bottom: 10px;
+    margin-left: 45px;
+    border-radius: 7px;
+    color: #804040;
+    font-size: 15px;
+}
+
+.label1{
+font-family: sans-serif;
+    padding: 74px;
+    font-size: 25px;
+    padding-left: 2px;
+    
+}
+
+
+.label2{
+font-family: sans-serif;
+    padding: 0px;
+    font-size: 25px;
+    padding-left: 2px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

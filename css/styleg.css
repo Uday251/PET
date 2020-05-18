@@ -1,0 +1,124 @@
+body{
+    background-color: #FA9B05;
+    }
+
+
+
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 1240px;
+    }
+li{
+    float:left;
+    }
+    
+li a{
+    display: block;
+    padding: 14px 16px;
+    text-decoration:none;
+    text-align: center;
+    color: white;
+    }
+li a:hover{
+    background-color: greenyellow;
+}
+
+
+
+
+.g1{
+    margin-left: 350px;
+    margin-top: 50px;
+    padding:5px;
+    font-size: 30px;
+    text-align: center;
+    background: url(../images/2.jpg); 
+  
+    display: block;
+    width: 600px;
+    height: 400px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+    
+}
+
+.g2{
+    margin-left: 250px;
+    margin-top: 50px;
+    padding:5px;
+    font-size: 30px;
+    text-align: center;
+    background: url(../images/dog1.jpg); 
+  
+    display: block;
+    width: 790px;
+    height: 600px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+    
+}
+
+
+.g3{
+    margin-left: 350px;
+    margin-top: 50px;
+    padding:5px;
+    font-size: 30px;
+    text-align: center;
+    background: url(../images/a.jpg); 
+  
+    display: block;
+    width: 630px;
+    height: 480px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+    
+}
+
+
+.g4{
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding:5px;
+    font-size: 30px;
+    text-align: center;
+    background: url(../images/pets.jpeg); 
+  
+    display: block;
+    width: 850px;
+    height: 540px;
+    box-shadow: 7px 15px 15px #ABABAB;
+    border-radius: 10px ;
+    border: 2px   #804040 ;
+    
+}
+
+
+.adopt-right h3 {
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 4em;
+    margin-left: 200px;
+	color:#fff;
+}
+
+
+
+.adopt-right p {
+     font-family: 'Righteous', cursive;
+    font-size: 3em;
+    text-transform: capitalize;
+    margin: 1em 0;
+    margin-left: 300px;
+    color: #fff;
+}
+
+ 
