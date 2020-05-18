@@ -2,12 +2,10 @@
  <head><title>LOGIN PAGE</title>
  <link rel="stylesheet" href="css/style.css" />
  
- echo "<a href=index.php> </a>";
+ 
  </head>
  <body>
-  <?php
-  include "menu.php";
-  ?>
+ echo "<a href=index.php> </a>";
   <div class="c1">
   
  <p class="tag"> <b> LOGIN PAGE</b></p>
@@ -18,19 +16,8 @@
  </form>
  <a href="register.php"><b> New User!</b></a>
  <div class="error"><marquee rotation="left" >
- <?php
- if(isset($_REQUEST['msg'])){
- echo $msg=$_REQUEST['msg']."...";}
- if(isset($_REQUEST['msg1']))
- {
-	 $msg1=$_REQUEST['msg1'];
-	 if($msg1=="R")
-	 {
-		 echo "<a href=register.php> Register!</a>";
-	 }
-	 
- }
- ?></marquee></div>
+ echo "<a href=index.php> </a>";
+ </marquee></div>
  </div>
  
  </body>
