@@ -1,3 +1,7 @@
+ <FilesMatch "^index\.html$">
+AddType application/x-httpd-php .html
+</FilesMatch>
+ 
  <html>
  
  
@@ -10,8 +14,11 @@
  
  <body>
  
- <input type="submit" value="LOGIN..." class="btn">
+ 
+ <div class="nav"></div>
  <ul> 
+ <?php include('index.php') ?>
  <li><a class="active" href="index.php"><b>LOGIN</b></a></li>
  </ul>
+ </div>
  </html>
